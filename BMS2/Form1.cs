@@ -34,7 +34,6 @@ namespace BMS2
                 {
                     MessageBox.Show($"{abrev} REPROVADO.");
                 }
-
             }
 
             catch
